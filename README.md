@@ -6,9 +6,8 @@
 1. Install [node.js](https://nodejs.org/) on your System
 2. Download or Clone the content of this repository.
 3. Copy config.json.sample to config.json and insert values (see below).
-4. Edit Messages in messages.json
-5. run bot.js with node (node bot.js)
-6. make sure the bot is running and it will post a random Message of the Day.
+4. run bot.js with node (node bot.js)
+5. make sure the bot is running and it will count the word.
 
 ## config.json
 ```
